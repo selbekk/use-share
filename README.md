@@ -2,6 +2,16 @@
 
 Trigger the Web Share API, and fall back to copying the value to clipboard.
 
+The package is [1.2kb gzipped](https://bundlephobia.com/result?p=use-share@latest).
+
+## Install
+
+```
+npm install use-share
+# or
+yarn add use-share
+```
+
 ## Usage
 
 This is how you use the `useShare` hook.
